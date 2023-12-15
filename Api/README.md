@@ -2,7 +2,7 @@
 
 -  ### [About the project](#about)
 -  ### [Getting Started](#start)
--  ###
+-  ### [#API Endpoints](#api)
 
 ## <a name="about">About the project</a>
 
@@ -49,7 +49,7 @@ Before diving into the project, ensure that you have the following prerequisites
 
 
 
-# API Endpoints
+## <a name="api">API Endpoints</a>
 For effective testing of Book Management API functionality, it is recommended to use Postman, a powerful API development and testing tool. In this section, we'll provide some examples and instructions for using Postman to interact with the API.
 
 **You can also use the provided interface of the Rest framework ( ^ ω ^)**
