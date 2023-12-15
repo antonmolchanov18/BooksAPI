@@ -25,7 +25,7 @@ Before diving into the project, ensure that you have the following prerequisites
 
 **2.Navigate to the project directory:**
 
-    cd bookapi
+    cd booksapi/api
 
 **3.Install project dependencies:**
 
