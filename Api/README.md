@@ -3,7 +3,7 @@
 -  ### [About the project](#about)
 -  ### [Getting Started](#start)
 -  ### [API Endpoints](#api)
-
+  
 ## <a name="about">About the project</a>
 
 Welcome to the Book Management API documentation! This project provides a robust CRUD (Create, Read, Update, Delete) API for efficiently managing a collection of books. The implementation leverages advanced technologies, including the Python programming language, Django Rest Framework, Django framework, and a database for seamless data management.
