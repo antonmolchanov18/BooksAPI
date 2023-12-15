@@ -25,7 +25,7 @@ Before diving into the project, ensure that you have the following prerequisites
 
 **2.Navigate to the project directory:**
 
-    cd booksapi/api
+    cd api
 
 **3.Create venv:**
 
