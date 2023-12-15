@@ -37,7 +37,7 @@ Before diving into the project, ensure that you have the following prerequisites
 
 **5.Install project dependencies:**
 
-    pip install -r requirements.txt
+    pip install -r requirements
 
 **6.Make migrations:**
      
