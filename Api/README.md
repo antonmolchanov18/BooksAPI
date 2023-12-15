@@ -29,21 +29,29 @@ Before diving into the project, ensure that you have the following prerequisites
 
 **3.Install project dependencies:**
 
+    python -m venv venv
+
+**4.Install project dependencies:**
+
+    .\venv\Scripts\acrivate
+
+**5.Install project dependencies:**
+
     pip install -r requirements.txt
 
-**4.Make migrations:**
+**6.Make migrations:**
      
     python manage.py makemigrations  
 
-**5.Migrate the database:**
+**7.Migrate the database:**
 
     python manage.py migrate
 
-**6.Create a superuser:**
+**8.Create a superuser:**
 
     python manage.py createsuperuser
 
-**6.Run the development server:**
+**9.Run the development server:**
     
     python manage.py runserver
 
