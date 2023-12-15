@@ -2,7 +2,7 @@
 
 -  ### [About the project](#about)
 -  ### [Getting Started](#start)
--  ### [#API Endpoints](#api)
+-  ### [API Endpoints](#api)
 
 ## <a name="about">About the project</a>
 
