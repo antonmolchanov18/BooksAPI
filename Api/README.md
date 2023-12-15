@@ -23,7 +23,7 @@ Before diving into the project, ensure that you have the following prerequisites
 
     git clone https://github.com/antonmolchanov18/BooksAPI.git
 
-**2.Navigate to the project directory:**
+**2. Open the IDE (pycharm or other), navigate to the project directory:**
 
     cd api
 
