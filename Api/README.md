@@ -21,7 +21,7 @@ Before diving into the project, ensure that you have the following prerequisites
 **1.Clone the repository to your local machine:**
 
 
-    git clone [https://github.com/your_username/book-management-api.git](https://github.com/antonmolchanov18/BooksAPI.git)
+    git clone https://github.com/antonmolchanov18/BooksAPI.git
 
 **2.Navigate to the project directory:**
 
