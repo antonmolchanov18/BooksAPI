@@ -12,7 +12,7 @@ Welcome to the Book Management API documentation! This project provides a robust
 
 ## <a name="start">Getting Started</a>
 ### Prerequisites
-Before diving into the project, ensure that you have the following prerequisites installed on your system:
+Before diving into the project, ensure that you have the following prerequisites <a src='https://www.python.org/downloads/release/python-3120/'>installed</a> on your system:
     
     Python (version 3.12.0 or higher)
 
