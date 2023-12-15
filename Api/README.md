@@ -33,7 +33,7 @@ Before diving into the project, ensure that you have the following prerequisites
 
 **4.Install project dependencies:**
 
-    .\venv\Scripts\acrivate
+    .\venv\Scripts\activate
 
 **5.Install project dependencies:**
 
