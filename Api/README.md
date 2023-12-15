@@ -27,17 +27,21 @@ Before diving into the project, ensure that you have the following prerequisites
 
     cd booksapi/api
 
-**3.Install project dependencies:**
+**3.Create venv:**
 
     python -m venv venv
 
-**4.Install project dependencies:**
+**4.Activate venv:**
 
     .\venv\Scripts\activate
 
 **5.Install project dependencies:**
 
     pip install -r requirements
+
+**6.Navigate to the project directory:**
+
+    cd bookapi
 
 **6.Make migrations:**
      
